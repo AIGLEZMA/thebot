@@ -1,0 +1,5 @@
+name: TheBot
+version: '${project.version}'
+main: me.aiglez.thebot.TheBotPlugin
+api-version: '1.20'
+description: A bot
